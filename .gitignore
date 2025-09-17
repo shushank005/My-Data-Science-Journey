@@ -1,1 +1,2 @@
-*.csv
+# Ignore all content in the data folder
+data/
