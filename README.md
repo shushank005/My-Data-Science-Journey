@@ -1,10 +1,14 @@
 # My Data Science Journey
 
-This repository contains my daily practice code for various data science topics.
+This repository contains my daily practice code for various data science topics, organized by subject.
 
-## Unsupervised Learning: K-Means
+## Table of Contents
 
-### Elbow Method
-- The code in `elbow_method.py` finds the optimal number of clusters.
-- **Dataset:** The `mall-customers.csv` dataset is used for this analysis.
- It can be downloaded from [this link on Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
+### 06-Supervised-Learning
+* **Model Evaluation:** Practice scripts for evaluating model performance.
+    * [GridSearchCV for Hyperparameter Tuning](./06-Supervised-Learning/Model-Evaluation/2025-09-21_hyperparameter_tuning_comparison.py)
+
+### 07-Unsupervised-Learning
+* **K-Means Clustering:** Scripts related to the K-Means algorithm.
+    * [Elbow Method](./07-Unsupervised-Learning/K-Means/2025-09-16_elbow_method.py)
+    * [Cluster Visualization](./07-Unsupervised-Learning/K-Means/2025-09-17_kmeans_visualization.py)
