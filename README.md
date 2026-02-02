@@ -1,14 +1,15 @@
-# My Data Science Journey
+# 🚀 My Data Science Journey
 
-This repository contains my daily practice code for various data science topics, organized by subject.
+Welcome to my learning repository! Here, I document my daily progress in Data Structures, Algorithms, and Machine Learning.
 
-## Table of Contents
+## 📂 Repository Structure
+- **DSA/**: Solutions for Data Structures & Algorithms (Arrays, Two Pointers, etc.)
+- **Machine Learning/**: Implementation of Supervised & Unsupervised algorithms.
+- **Data/**: Datasets used for practice projects.
 
-### 06-Supervised-Learning
-* **Model Evaluation:** Practice scripts for evaluating model performance.
-    * [GridSearchCV for Hyperparameter Tuning](./06-Supervised-Learning/Model-Evaluation/2025-09-21_hyperparameter_tuning_comparison.py)
+## 🛠️ Tech Stack
+- **Languages:** Python 🐍, SQL
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 
-### 07-Unsupervised-Learning
-* **K-Means Clustering:** Scripts related to the K-Means algorithm.
-    * [Elbow Method](./07-Unsupervised-Learning/K-Means/2025-09-16_elbow_method.py)
-    * [Cluster Visualization](./07-Unsupervised-Learning/K-Means/2025-09-17_kmeans_visualization.py)
+---
+*Created by Shushank | IIT Madras BS Student*
